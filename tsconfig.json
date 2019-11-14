@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react",
+
+    // Uncomment to break:
+    // "target": "esnext",
+  }
+}
